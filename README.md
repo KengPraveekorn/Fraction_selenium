@@ -2,4 +2,4 @@
 Main file: pytorpa <br/>
 Main jupetor: datatable
 
-Webdriver Edge version: 112.0.1722.48
+Webdriver Edge version: Auto checked version
